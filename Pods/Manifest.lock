@@ -1,0 +1,16 @@
+PODS:
+  - libpng (1.6.35)
+
+DEPENDENCIES:
+  - libpng
+
+SPEC REPOS:
+  trunk:
+    - libpng
+
+SPEC CHECKSUMS:
+  libpng: c490b0523e94f78697f83ad434fbaf715050e15b
+
+PODFILE CHECKSUM: bd7b64adce2502f68de990693681d44cbbf31e3f
+
+COCOAPODS: 1.9.0

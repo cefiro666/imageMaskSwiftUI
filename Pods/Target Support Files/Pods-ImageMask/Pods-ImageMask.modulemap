@@ -1,0 +1,6 @@
+framework module Pods_ImageMask {
+  umbrella header "Pods-ImageMask-umbrella.h"
+
+  export *
+  module * { export * }
+}
