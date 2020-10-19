@@ -19,6 +19,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <png.h>
+#include <string.h>
 
 enum Direction {
     NORTH,
